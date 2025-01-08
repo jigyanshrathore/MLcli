@@ -17,23 +17,17 @@ The CLI made to preprocess the database and save your **time**:clock1:
 
 - [x] Implement try-catch
 - [x] Handling case in the input
-- [x] Adding Emoji's
 - [x] Implementing graph functions for Analysis
 - [x] Adding Comments
 
 ## Run
 
-- Clone this Repository: `gh repo clone ROHANPATAKAR/ml-preprocessor-cli`
+- Clone this Repository: `gh repo clone jigyanshrathore/MLcli`
 - `cd ML-Preprocessor-CLI/`
 - `pip3 install -r requirements.txt`
 - Now run, python3 `main.py` [Dataset's Path]
 - Ex: `python3 main.py dataset.csv`
 - Then you will see the below home screen.
 
-## :camera: Screenshots
 
-<p align="center">
-    <img alt="Home screen" src="./screenshots/homeScreen.png" width="80%"/>
-</p>
-
-#### If you have any questions, just let me know [here.](mailto:rohanpatankar926@gmail.com)
+#### If you have any questions, just let me know [here.](mailto:jigyanshsinghrathore@gmail.com)
